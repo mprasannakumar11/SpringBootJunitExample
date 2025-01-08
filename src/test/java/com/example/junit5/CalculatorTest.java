@@ -1,7 +1,8 @@
-package com.example;
+package com.example.junit5;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.example.app.Calculator;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

@@ -1,4 +1,4 @@
-package com.example.testsuite;
+package com.example.junit5.testsuite;
 
 import org.junit.platform.suite.api.IncludeClassNamePatterns;
 import org.junit.platform.suite.api.SelectClasses;

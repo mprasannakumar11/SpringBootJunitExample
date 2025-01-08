@@ -1,6 +1,6 @@
-package com.example.testsuite;
+package com.example.junit5.testsuite;
 
-import com.example.AdvancedCalculator;
+import com.example.app.AdvancedCalculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
